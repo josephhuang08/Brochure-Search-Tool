@@ -5,6 +5,10 @@ This project aims to create a tool that allows users to search for items in vari
 This will be a Subscription-based service. The target customers will be Chinese students in Chemnitz. To access the service there will be a monthly or annual fee.  
 
 The service may be presented as a website, WeChat mini-program, or chatbot.  
+## Features
+
+- Search for items in various supermarket discount brochures and display a list of matching results along with pictures, prices and discounts.
+- Show the top X best deal of all currently valid brochures
 
 ## TODO
 
@@ -36,5 +40,5 @@ If you are interested in contributing, please follow these guidelines:
 
 ## Contact
 
-For any questions or issues, please contact us.
+For any questions or issues, please contact us.  
 Joseph: josephhuang08@gmail.com
